@@ -113,6 +113,6 @@ HEM = 0.625
 
 Once you've edited your measurements, click `Run > Run All Cells`.
 
-The pattern information is saved in your current working directory, which should be `/Users/handmadephd/Documents/github/tote-pattern`
+The pattern is saved in your current working directory, which should be `/Users/handmadephd/Documents/github/tote-pattern`. You can view a sample pattern here: [HandmadePhD_tote_12H_10W_9D_0.625HEM_0.25SA.png](HandmadePhD_tote_12H_10W_9D_0.625HEM_0.25SA.png). The file is saved with the dimension information.
 
 Happy coding!
