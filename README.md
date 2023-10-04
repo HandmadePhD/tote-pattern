@@ -1,4 +1,4 @@
-# TOTE PATTERN GENERATOR
+# Tote Bag Pattern Generator
 
 ## Installation
 
@@ -90,7 +90,7 @@ jupyter notebook
 ```
 
 ## Usage
-Open the *.ipynb file.
+Open the *.ipynb file from the jupyter notebook window.
 
 Change the following variables according to your preferred bag dimension.
 
@@ -110,5 +110,9 @@ SMA = 0.25
 # top double fold hem
 HEM = 0.625
 ```
+
+Once you've edited your measurements, click `Run > Run All Cells`.
+
+The pattern information is saved in your current working directory, which should be `/Users/handmadephd/Documents/github/tote-pattern`
 
 Happy coding!
