@@ -109,6 +109,13 @@ SMA = 0.25
 
 # top double fold hem
 HEM = 0.625
+
+# Depending on your bag dimensions, the text on the image may render poorly.
+# You can increase or decrease the value of f to adjust the size of your image.
+# Larger f-values gives more room for the text.
+# Smaller f-values gives less room for the text.
+# Set f anywhere between 1 and 1000.
+f = 30
 ```
 
 Once you've edited your measurements, click `Run > Run All Cells`.
